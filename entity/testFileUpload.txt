@@ -1,0 +1,1 @@
+file uses to test upload (protractor e2e test)
